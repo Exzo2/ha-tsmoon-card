@@ -40,7 +40,7 @@ Then you can add the new card into your dashboard.
 | type        | string  | **Required** | `custom:custom:tsmoon-card`                              |
 | entity      | string  | **Required** | The entity id of moon sensor -> sensor.moon              |
 | title       | string  | **optional** | Title displayed on the card                              |
-| icon_type   | string  | **optional** | Type of picture for the moon (forms/round/photos)        |
+| icon_type   | string  | **optional** | Type of picture for the moon (forms/round/photo)        |
 | language    | string  | **optional** | The language used in the card                            |
 
 Example:
